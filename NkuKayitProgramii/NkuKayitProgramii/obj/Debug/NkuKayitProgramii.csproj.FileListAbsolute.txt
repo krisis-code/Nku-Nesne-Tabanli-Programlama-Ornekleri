@@ -1,0 +1,8 @@
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\bin\Debug\NkuKayitProgramii.exe.config
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\bin\Debug\NkuKayitProgramii.exe
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\bin\Debug\NkuKayitProgramii.pdb
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\obj\Debug\NkuKayitProgramii.csproj.AssemblyReference.cache
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\obj\Debug\NkuKayitProgramii.csproj.SuggestedBindingRedirects.cache
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\obj\Debug\NkuKayitProgramii.csproj.CoreCompileInputs.cache
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\obj\Debug\NkuKayitProgramii.exe
+C:\Users\Menes\git\nkuuygulama\NkuKayitProgramii\NkuKayitProgramii\obj\Debug\NkuKayitProgramii.pdb
